@@ -46,6 +46,7 @@ class relax extends React.Component {
                 }, holdTime)
             }, breatheTime)
             }, totalTime)} */}
+            <div className="back">
             <h1 className="heading">Relaxer</h1>
             <div className="container">
                 <div className="circle"></div>
@@ -54,6 +55,7 @@ class relax extends React.Component {
                     <span className="pointer"></span>
                 </div>
                 <div className="gradient circle"></div>
+            </div>
             </div>
             </Aux>
         );
