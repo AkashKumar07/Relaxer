@@ -1,3 +1,5 @@
+You can View the web app at https://relaxer-c4a4b.web.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
