@@ -1,70 +1,23 @@
-You can View the web app at https://relaxer-c4a4b.web.app/
+###Relaxer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple relaxing app build using React.js. This web app is useful to relax oneself from a hectic worklife. It just takes few minutes to follow the instructions and follow the instructions for the time of your choice.
 
-## Available Scripts
+## How to use this web app on the local machine
 
-In the project directory, you can run:
+You can either clone or download the zip file of the repository. After that, you have to open it with your favourite editor and run the following commands in the terminal:
 
-### `npm start`
+##### npm install
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+This command installs all the npm packages that are to be needed in order to run the app. This is done based on the package.json file, wherein, we have all the packages mentioned that have used in this web app. 
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+##### npm start
 
-### `npm test`
+This command starts up the app on the local device at http://localhost:3000.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## npm packages used
+- create-react-app : For setting up a react application.
+- redux : for state management.
+- react-redux : for state management
+- react-beautiful-dnd : For the Drag and Drop feature in the application.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+###### You can also visit the react application at http://akashkumar07.github.io/TrelloClone
