@@ -1,6 +1,6 @@
-###Relaxer
+#Relaxer
 
-A simple relaxing app build using React.js. This web app is useful to relax oneself from a hectic worklife. It just takes few minutes to follow the instructions and follow the instructions for the time of your choice.
+A simple relaxing app build using React.js, and css modules has been used for styling. This web app is useful to relax oneself from a hectic worklife. It just takes few minutes to follow the instructions and follow the instructions for the time of your choice.
 
 ## How to use this web app on the local machine
 
@@ -16,8 +16,6 @@ This command starts up the app on the local device at http://localhost:3000.
 
 ## npm packages used
 - create-react-app : For setting up a react application.
-- redux : for state management.
-- react-redux : for state management
-- react-beautiful-dnd : For the Drag and Drop feature in the application.
+- react-router-dom : For routing between pages.
 
-###### You can also visit the react application at http://akashkumar07.github.io/TrelloClone
+###### You can also visit the react application at http://relaxer-c4a4b.web.app/
