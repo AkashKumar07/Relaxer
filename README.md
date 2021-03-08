@@ -1,4 +1,4 @@
-#Relaxer
+# Relaxer
 
 A simple relaxing app build using React.js, and css modules has been used for styling. This web app is useful to relax oneself from a hectic worklife. It just takes few minutes to follow the instructions and follow the instructions for the time of your choice.
 
